@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="CloneLinkedIn" src=".github/Captura.PNG" width="100%">
+  <img alt="CloneLinkedIn" src=".github/Captura.png" width="100%">
 </p>
 
 ## 📛 Tecnologias
