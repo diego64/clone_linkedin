@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O objetivo é clonar a interface Web do LinkedIn... os dados da aplicação Web são totalmente estáticos
 
-## 🎥 Referencia 
+## 🎥 Referencia
 
 LinkedIn e Shimmer Effect no ReactJS | UI Clone (Canal do YouTube da Rockseat) 
